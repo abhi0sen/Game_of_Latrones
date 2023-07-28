@@ -4,7 +4,9 @@ version - 1
 Date - 20 May 2021
 ## THE GAME OF LATRONES
 !!!Tie your seat belt and get ready to use your mind
-###!!!INSTRUCTIONS!!!
+
+### INSTRUCTIONS TO PLAY
+
 To play this game follow the below instruction - 
 
 1.  Read the instruction or question before filling up the entries, inside the game while playing it.
